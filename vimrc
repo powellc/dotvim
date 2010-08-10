@@ -13,9 +13,9 @@ set completeopt=menuone,preview
 "inoremap <expr> <CR> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
 
 " Omni completion settings
-set ofu=syntaxcomplete#Complete
-let g:rubycomplete_buffer_loading = 0
-let g:rubycomplete_classes_in_global = 1
+#set ofu=syntaxcomplete#Complete
+#let g:rubycomplete_buffer_loading = 0
+#let g:rubycomplete_classes_in_global = 1
 " completing Rails hangs a lot
 "let g:rubycomplete_rails = 1
 
@@ -29,7 +29,7 @@ let bash_is_sh=1
 set cinoptions=:0,(s,u0,U1,g0,t0
 
 set modelines=5
-set tags=tags;/
+#set tags=tags;/
 
 set laststatus=2
 
@@ -45,8 +45,8 @@ set statusline=%<%1*%f%*\ %h%m%r%#warningmsg#%{SyntasticStatuslineFlag()}%*%=%-1
 
 set number
 
-set textwidth=0         " Do not wrap words (insert)
-set nowrap              " Do not wrap words (view)
+set textwidth=80        " Do not wrap words (insert)
+set wrap              " Do not wrap words (view)
 set showcmd             " Show (partial) command in status line.
 set showmatch           " Show matching brackets.
 set ignorecase          " Do case insensitive matching
@@ -92,8 +92,9 @@ hi! link ShowMarksHLm LineNr
 " Make
 :command -nargs=* Make make <args> | cwindow 3
 
-let mapleader = ","
+let mapleader = "\"
 
+nmap <leader>t :CommandT
 " Don't use Ex mode, use Q for formatting
 map Q gq
 
@@ -124,11 +125,11 @@ nmap <leader>/ :call NERDComment(0, "invert")<cr>
 vmap <leader>/ :call NERDComment(0, "invert")<cr>
 
 " ,t to show tags window
-let Tlist_Show_Menu=1
-nmap <leader>t :TlistToggle<CR>
+"let Tlist_Show_Menu=1
+"nmap <leader>t :TlistToggle<CR>
 
 " ,e to fast finding files. just type beginning of a name and hit TAB
-nmap <leader>e :e **/
+" nmap <leader>e :e **/
 
 " ,f to fast finding files using fuzzy finder.
 nmap <leader>f :FufFile **/<CR>
