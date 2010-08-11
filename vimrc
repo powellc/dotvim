@@ -13,9 +13,9 @@ set completeopt=menuone,preview
 "inoremap <expr> <CR> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
 
 " Omni completion settings
-#set ofu=syntaxcomplete#Complete
-#let g:rubycomplete_buffer_loading = 0
-#let g:rubycomplete_classes_in_global = 1
+"set ofu=syntaxcomplete#Complete
+"let g:rubycomplete_buffer_loading = 0
+"let g:rubycomplete_classes_in_global = 1
 " completing Rails hangs a lot
 "let g:rubycomplete_rails = 1
 
@@ -29,7 +29,7 @@ let bash_is_sh=1
 set cinoptions=:0,(s,u0,U1,g0,t0
 
 set modelines=5
-#set tags=tags;/
+"set tags=tags;/
 
 set laststatus=2
 
@@ -92,7 +92,7 @@ hi! link ShowMarksHLm LineNr
 " Make
 :command -nargs=* Make make <args> | cwindow 3
 
-let mapleader = "\"
+let mapleader = ","
 
 nmap <leader>t :CommandT
 " Don't use Ex mode, use Q for formatting
