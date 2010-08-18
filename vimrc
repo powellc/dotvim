@@ -92,9 +92,9 @@ hi! link ShowMarksHLm LineNr
 " Make
 :command -nargs=* Make make <args> | cwindow 3
 
-let mapleader = ","
+let mapleader = "\\"
 
-nmap <leader>t :CommandT
+nmap <leader>t :CommandT<return>
 " Don't use Ex mode, use Q for formatting
 map Q gq
 
@@ -160,5 +160,6 @@ endif
 
 let g:yankring_replace_n_pkey = '<leader>['
 let g:yankring_replace_n_nkey = '<leader>]'
+let g:yankring_history_dir = '~/.vim/'
 
 set shell=/bin/bash
