@@ -1,1 +1,100 @@
-let g:yankring_history_dir = '$VIM',v
+h,v
+:,v
+a,v
+t,v
+l,v
+o,v
+s,v
+n,v
+c,v
+I,v
+2,v
+	'django.middleware.csrf.CsrfResponseMiddleware',,V
+Brennan,v
+	dd`'django.middleware.csrf.CsrfViewMiddleware',,V
+	'django.middleware.csrf.CsrfViewMiddleware',	'django.middleware.csrf.CsrfResponseMiddleware',,52
+w,v
+e,v
+i,v
+V,v
+django.middleware.csrf.CsrfViewMiddleware,v
+A major initiative undertaken by volunteers from the community is welcoming everyone to come tour the new science center at Deer Isle-Stonington High School. Spearheaded by Sunset resident Bill Shaw, the science center seeks to provide DISHS students with a dedicated and high-quality space for performing scientific experiments and inquries. The open house is scheduled for Wednesday, September 8 from 3 to 5 p.m., and everyone is invited.Last month, Shaw sent a newsletter to the community, noting that the project is nearly complete, after contributions from more than 60 people raised more than $56,000. Hurdles such as the necessity of an emergency exit and window in the previously window-less space between two science classrooms have been overcome, and the center is on track to be usable by high school students for the 2010-11 school year. The center features 12 new laboratory tables, new cabinents, whiteboards, and a host of dedicated scientific equipment, which has been carefully cleaned and refurbished to give students the tools they need to perform expeirments. In addition, the fact that the space is isolated from classroom space means projects that take many days, weeks or even months, can be setup and left undisturbed between class periods.,v
+recently ,v
+ ,v
+	'django.middleware.csrf',,V
+erintendent Mark Hurvitt pitched the idea of trying to from a 5-town Alternative Organizational Structure with Surry and the four towns in Union 93 using the same motivator as he did to pitch an AOS between Unions 76 and 93: money. At the Union 93 Joint School Board's August 24 meeting, Hurvitt argued that, with most board members in agreement that Surry should be invited to join the government of the Union and not just purchase services, an AOS would make the most sesne, as it would give all towns except Castine and Surry a chance to recapture penalty money. Penobscot, Blue Hill and Brooksville were, together, penalized approximately $115,000 in state aid for failling to consolidate in January 2009. Castine and Surry were spared the penalty for only the current year because they voted for consolidation.Hurvitt also noted that the action before the Union 93 Board were not binding, and only amounted to the Union 93 towns agreeing to send a proposal to the state to create an AOS with Surry. "We'd know within a week or 10 days whether the state would play ball with a 5-town AOS," explained Hurvitt.Union 93 Board Chairman Joe Spinazola of Castine opened discussion on the issue with a disclaimer that he only wanted to proceed if every board was on board. Blue Hill School Board Chairman Ben Wootten had reservations. He asked what happened to the idea of simply inviting Surry to join Union 93 as a fifth member. Spinazola pointed out that Hurvitt already received legal council that such a move is not possible under the current consolidation law. Wootten argued that unless language in the AOS law requiring "consistent" contracts with teachers and staff could be resolved without substantially increasing school budgets, he could not see a way to approve forming an AOS. "If it's going to cost three times what we would get back from the state, it's a no-go," said Wootten. In the interest of having more time as a board to discuss the issue, Wootten suggested each board hold individual votes at their September meetings regarding whether to send a 5-town AOS proposal to the state.In other business, the board approved a proposal to reduce the central office technology coordinator position from 40 hours per week to 10. The move comes as Matt Jurick, who held the position, recently took a new position as the technology coordinator for the Blue Hill Consolidated School. Hurvitt told the Union 93 Board that he has discussed the situation at length with Jurick, and he has agreed to continue providing limited technology support to the central office for around 5 to 10 hours each week. Hurvitt estimated the change would result in a savings of approximately $32,000.Wootten asked whether the money saved could go towards hiring a curriculum coordinator, who could also assist in finding and applying for competitive grants. Hurvitt said that would be one possiblity, and that he was also thinking about a temporary position to help sort through the policy manuals in each town and get them up to date. The board unanimously approved the reduction in hours for the technology coordinator position, though agreed to sit on the money saved for the start of the school year.Lastly, the board heard from central office secretary Caroline Heller that she has agreed to take on the role of 403(B) plan manager for the Union 93 office. Previously the job was contracted out and paid for by the teachers taking advantage of the plan. Heller said the job is not as complicated as it seemed when the laws governing 403(B) plans changed last year, and she feels comfortable she can handle the new job. Each school board will have to individually approve Heller as manager of the plans at their September board meeting.The next Union 93 Joint Board meeting will be held in Decmeber, though a date has not yet been set.,v
+C,v
+f,v
+J,v
+m,v
+r,v
+d,v
+B,v
+3,v
+9,v
+U,v
+g,v
+u,v
+p,v
+people ,v
+S,v
+T,v
+(,v
+M,v
+http://127.0.0.1:8000/,v
+====== Union 93 SB Meeting Aug 2010 ======//Tuesday, August 24, 2010 at 5:30 p.m.//===== Vote breakdown =====| Town        | Votes per member || Blue Hill   | 463              || Brooksville | 176              || Castine     | 464              || Penobscot   | 281              |===== Agenda & notes =====  - Call to order    * Committee members present:       * Penobscot: Grillo, Reynolds, Norton, Prescott, Markley       * Blue Hill: Wootten, Smallidge, Richardson, Herrick      * Brooksville: Tarr, Hooper, Condon, Fowler, Chase      * Castine: Spinazola, MacArthur      * Surry: Pellerano, Tallent, ???, ???    * Admin members present: Frothingham, Cole, Martin, Hurvitt, Pert, Surry principal    * Others present: Matt Jurick  - Flag salute  - Approval of minutes of the previous meetings    - April 27, 2010  - Communications  - Comments and questions from the public  - Approval of the Agenda  - Old business    - Update on ADS software      * Surry onto ADS     - Update on AOS committee meetings      * Hurvitt: 3 9-town AOS meetings      * Group disbanded on July 19, not forming an AOS      * Money worked out for CSD and Castine, but no one else      * Anecdotally, towns extremely friendly, wanted to find angle to work      * Meeting penciled in for Nov. 4 after gubernatorial election    - Consider filing a notice of intent for a five town AOS with the DoE      * Hurvitt: So, what's next?      * Clearest path is going down road to get five towns here into an AOS      * Each group would have to file a letter of intent      * Would mean we'd know within a week or 10 days whether town would playball with 5-town AOS      * If yes, then I have a bunch of things to do      * Also, public hearings in all towns, reorg plan submitted, ...      * If state said yes, there we go      * State says no, then we have new governor, legislatures coming in November      * If we had an AOS right now, we'd be saving $114,000 in penalty money      * Don't want to get into what-ifs for next year      * But seems like this is an angle      * You can say, good idea, or no      * Talking with Joe today, thought it would be nice to get some clarity on this`      * Spinazola: Preface this, I don't want to waste anyone's time      * If there's a board deadset against it, speak up now and we'll not go any further      * Wootten: Why are we moving past the concept of what we takled about at length and has been ignored, of asking commish if they will allow Surry to come into U93?      * Spinazola: Well, Mark's checked on this      * Legal council we've talked to has said we have to grounds for expecting that      * Wootten: Well, DoE could say whatever they want      * Spinazola: I don't think that commish would do anything like that      * I don't see commish standing up against Baldacci to do anything      * Wootten: Unless there's some realistic way that we can see that constract issues don't pertain more than it did a year ago, we're going to vote yes      * If it's going to cost three times what we get from teh state, it's a no-go      * I don't understand why we're doing it this way      * Spinazola: Your points are valid, is your board not interested?      * Wootten: I don't know, no vote      * If AOS work all failed, we could always proceed with an AOS      * An AOS develops it's own momentum      * Spinazola: If your board is not interested in yea or nay then we should bring it to Sept. meeting      * Markley: Decision now binding?      * People of Penobscot are willing to go it alone, never liked the ... Act, never liked closing HS      * Never liked joining U93, but things what they are, we'll try anything once      * Hurvitt: So put on agenda of all five board meetings, whether to file a letter of intent      * If one town votes it down, should we not go any further (yes)      * Herrick: Leary of trying to push things through with current gov. when things could very much change in next election      * Smallidge: We would love to get Surry on board with us somehow as a unit, but not necessarily as an AOS or an expanded Union      * Not reflecting our relationship with Surry at all      * Pellerano: If you could go Union route, that would be best      * Advice from Jim Rier was that you can't augment a Union by increasing or decreasing membership      * Diff. between AOS and uion        * Members can come and go in an AOS        * AOS Committee does not have to be all members of all towns        * Sped Director is hried through central office not through joint committee        * Consistent policies, calendar, contracts, in AOS law and not Union law      * Spinazola: AOS convo with 9 towns was make it the way we want it and if state doesn't approve it, fine      * Consistent could be whatever we define it, pay scales are definitely not one of them      * Smallidge: Language also includes statement about "working towards consistent contracts..."      * Hurvitt: Will be on every Sept. agenda    - Update from the secondary education sub-committee      * Formed committee in April, met once, wanted to wait until GSA board had picked new adminsitrator      * Met with Baggs in June, it was me, Ben and Baggs      * Sense I have is GSA has decided to re-gear up their secondary meetings between schools      * Sept. 27, 4:30 p.m., starting at BHCS, will be a second meeting a month later, a third a month later      * Group will be okay with that as vehicle for secondary education input`      * Coulds set up another group, but seems we should piggy back on what GSA is doing      * Wootten: One of things that occurred, would be nice if we had more consistent, freq. contact with the trustees      * Unlikely they will reconsistute the joint board      * Suggested but no response, a good way to do it would be to have a U93 rep be eitehr a voting or non-voting member of board      * Would give you consistent input, formal channel to board      * Markley: Don't mean to sound critical of GSA, but it was issue of access for parents and input      * My response has always been you may be private, but your taking our money      * Wootten: Right, and problem with dog and pony shows is that they're all prepared for the audience      * Nice part would be have input on a consistent basis      * Spinazola: Bport board for years had Prospect-Verona sitting on it as ex-officio and they listened      * Hooper: Even a non-voting member, saying a few things now and then may get a response from them      * Spinazola: Move that Wootten approach GSA about creating a sitting board member on GSA board      * **Approved (U)**      * Surry Chrm: Sub-committee purpose?      * Spinazola: Reason was to increase communication with secondary schools      * And nobody showed up      * Surry Chrm: We 50/50 GSA and RSU 24, have same issues at RSU 24      * Probably only ones in group sending that way, but what do we do about that      * We're looking at Ellsworth anyway and trying to open discussions, may bring that back    - Discussion of a curriculum coordinator position for the 2011-12 school year      * Hurvitt: No proposal here, but want to keep it alive      * When you hear through grapevine, Bport has tons of grant money      * Don't have anyone to write competitive grants      * Worried about some slippage here or there      * Don't have capacity for those kinds of things that will be opening up over next several months      * Have good A team right now, but will put forward proposal, think it's a need in this union      * Nothing right now, just a commercial for coming attractions      * Smallidge: Job desc. could include writing grants?      * Hurvitt: Have seen in last couple years, competitive grants come on the table for schools      * Most grants have gone away from, you're going to get yours, to competitive      * Not easy to close your door for three days and pound out a grant      * But think job could include some one able to write these grants      * Smallidge: Contracted workers to do that work?      * Hurvitt: Not a bad idea in short term      * Smallidge: Lot of money going to schools that we're not getting, your swamped, union staff swamped      * Spinazola: Also, grants don't end once they're awarded      * They've gotten some big money, $180K   - New business    - To propose a reduction in hours for the technology coordinator position      * Hurvitt: Usually don't have August meeting, this is second reason for this meeting (after AOS update)      * Matt is going to work at BHCS, will start next Monday      * Leaves us with a bit of a void in Union office      * Proposed solution is to amend Matt's respons.      * Still BHCS tech integrator, but would enter contract into him for 5-10 hours a week       * Don't know how this would work, Matt would submit a timesheet      * By doing this, feel we will have taken some steps foward in curriculum      * In meantime we wnot have support we had before from Matt      * Caroline Heller will be first line of defense for minor technology issues      * Matt will be the clean up person at 4 or 5 o'clock      * He knows powerschool, knows servers, has some ownership to central office gear      * Not the level of service we had, but we can live with it      * Going to be saving some money at this game too      * Heller came up with bottomline, by doing this, if we budget Matt for 10 hours a week, save $32,169 this year      * Wootten: Possible to use some of those savings for a grant writer?      * Hurvitt: Possible, yes.      * Also thought about temp position to get policies in order      * That would be on list of what to do with savings      * Maybe not use the whole thing on that, but we weren't to point where we had iron-clad proposal      * Good use of some of that time or money      * Just don't have it together in my head yet      * Spinazola: Like idea of sitting on this for the start of the school year      * To reduce technology position from 40 to between 5 and 10      * **Approved (U)**    - First reading of amended technology coordinator job description      * Hurvitt: Three descriptions in packet, old one, current one, and proposed      * Matt amended old description and was approved in April      * Now parred it down to small list of four items      * Don't have to approve it, first reading      * Will have chance to ask him how it's going in December    - To set up a superintendent's evaluation Committee      * Two members from each board last tiem      * Spinazola: We met twice, once to review questions and format      * Sat down second time and tallied results, required by law to evaluate super once a year in December      * Board agrees that up to two members is fine    - Report on 403(B) plan administration      * Pre-tax savings plans, available for a long time to staff in U93      * IRS started changing requirement of plans, more oversight      * Mostly targeted to doctors and college professors, but they netted up public schools      * Legislators tried to get them to hold off or modify what they were doing so small schools weren't affected      * Didn't happen      * CPI was brought in to do accounting paid for by teachers      * CPI will be changing their fee structure, less than 34 participants in school, they will charge $50 per month      * Adds up with four or five schools      * Not really a big deal to be a 403 plan administrator      * Plan document for each school and info sharing agreement with vendors (right now have 3)      * Bringing this up b/c I've been asked to be 403(B) administrator      * Letting you guys know becuase I will need each school board to adopt plan and approve me as admin      * Herrick: Talked with Jan about this?      * Jan: We are extremely grateful to Caroline to take this on      * Heller: No interruption in service      * Spinazola: Thought we paid CPI money for legal liability?      * Heller: Plan drawn up by Drummund/Woodsum and in use in union 76      * Plan will be very narrow, they can deposit money, switch between vendors, nothing else      * If vendor doesn't want to sign our info sharing agreement they will not be vendors      * Hurvitt: Will be on Sept. or Oct. board meeting agendas  - Other  - Adjournment,V
+http://kapowell.com/atom.xml,v
+EMAIL_HOST='smtp.3ip.net'EMAIL_PORT=25EMAIL_HOST_USER='cpowell@penobscotbaypress.com'EMAIL_HOST_PASSWORD='cpow07'DEFAULT_FROM_EMAIL='cpowell@penobscotbaypress.com',50
+,V
+	MEDIA_URL = 'http://192.168.0.153:44444/m/',V
+    DATABASE_NAME = os.path.join(PROJECT_DIR,'igh.db'),V
+    DATABASE_ENGINE = 'sqlite3',V
+if DEBUG:,V
+ighmassage_com ,v
+info,v
+ighmassage,v
+c2itizen,v
+com,v
+.,v
+@,v
+vanessa,v
+`,v
+mail.onecardinal.com',v
+    'schedule',,V
+    'basic.blog',,V
+    'photologue',,V
+    'massages',,V
+    'jumptoadmin',,V
+    "jumptoadmin.context_processors.media",,V
+_,v
+24.93.128.34','127.0.0.1','10.1.1.46','10.1.1.23'),v
+INTERNAL_IPS=('24.93.128.34','127.0.0.1','10.1.1.46','10.1.1.23'),V
+/,v
+b,v
+v,v
+y,v
+    MEDIA_URL = 'http://igh.rubyvroom.com/media/',V
+    MEDIA_URL = 'http://ighmassage.com/media/',V
+    CACHE_BACKEND='memcached://127.0.0.1:11211/',V
+    DATABASE_PASSWORD = 'daff0dil',V
+    DATABASE_PORT = 50000	,V
+    DATABASE_HOST = 'dyson',V
+    DATABASE_USER = 'igh',V
+    DATABASE_NAME = 'ighmassage',V
+    DATABASE_ENGINE = 'postgresql_psycopg2',V
+else:,V
+#,v
+DEBUG=False,V
+  - adzone  - newsroom  - darkroom  - directory ,14
+  ia_com,v
+  - adzone  - newsroom  - darkroom   - directory ,14
+-------,V
+~~~~~~~,V
+     /cp ,V
+       /directory -> directory,V
+When laying out a django application, one needs to keep in mind  ,V
+          docs/,V
+          design/,V
+             var/,V
+             apps/,V
+               linked apps,V
