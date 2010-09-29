@@ -22,7 +22,7 @@ set completeopt=menuone,preview
 " syntastic
 let g:syntastic_enable_signs=1
 
-colorscheme vividchalk
+colorscheme molokai 
 set background=dark
 
 let bash_is_sh=1
