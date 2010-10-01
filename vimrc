@@ -64,8 +64,13 @@ set wildmenu
 set ruler
 set visualbell
 
+" pythonic settings...
 set ts=4
 set sw=4
+set smarttab
+set expandtab
+set softtabstop=4
+set autoindent
 
 "fixdel
 
