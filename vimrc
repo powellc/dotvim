@@ -1,5 +1,5 @@
 set nocompatible
-set guifont=Inconsolata\ 10
+set guifont=Inconsolata\ 11
 runtime! autoload/pathogen.vim
 if exists('g:loaded_pathogen')
   call pathogen#runtime_prepend_subdirectories(expand('~/.vim/bundles'))
@@ -46,7 +46,7 @@ set statusline=%<%1*%f%*\ %h%m%r%#warningmsg#%{SyntasticStatuslineFlag()}%*%=%-1
 set number
 
 set textwidth=80        " Do not wrap words (insert)
-set wrap              " Do not wrap words (view)
+set nowrap              " Do not wrap words (view)
 set showcmd             " Show (partial) command in status line.
 set showmatch           " Show matching brackets.
 set ignorecase          " Do case insensitive matching
@@ -63,6 +63,20 @@ set history=1000
 set wildmenu
 set ruler
 set visualbell
+
+" These are all python-friendly settings
+autocmd BufRead *.py set smartindent cinwords=if,elif,else,for,while,try,except,finally,def,class
+autocmd BufRead *.py inoremap # X^H#
+autocmd BufRead *.py set tabstop=4
+autocmd BufRead *.py set shiftwidth=4
+autocmd BufRead *.py set smarttab
+autocmd BufRead *.py set expandtab
+autocmd BufRead *.py set softtabstop=4
+autocmd BufRead *.py set autoindent
+autocmd BufRead *.py highlight BadWhitespace ctermbg=red guibg=red
+autocmd BufRead *.py match BadWhitespace /^\t\+/
+autocmd BufRead *.py match BadWhitespace /\s\+$/
+autocmd BufRead *.py set smartindent cinwords=if,elif,else,for,while,try,except,finally,def,class
 
 set ts=4
 set sw=4
