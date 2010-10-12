@@ -1,5 +1,5 @@
 set nocompatible
-set guifont=Inconsolata\ 11
+set guifont=Inconsolata\ 12
 runtime! autoload/pathogen.vim
 if exists('g:loaded_pathogen')
   call pathogen#runtime_prepend_subdirectories(expand('~/.vim/bundles'))
@@ -22,7 +22,7 @@ set completeopt=menuone,preview
 " syntastic
 let g:syntastic_enable_signs=1
 
-colorscheme vividchalk
+colorscheme molokai 
 set background=dark
 
 let bash_is_sh=1
@@ -77,9 +77,6 @@ autocmd BufRead *.py highlight BadWhitespace ctermbg=red guibg=red
 autocmd BufRead *.py match BadWhitespace /^\t\+/
 autocmd BufRead *.py match BadWhitespace /\s\+$/
 autocmd BufRead *.py set smartindent cinwords=if,elif,else,for,while,try,except,finally,def,class
-
-set ts=4
-set sw=4
 
 "fixdel
 
