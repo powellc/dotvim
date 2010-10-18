@@ -1,5 +1,5 @@
 set nocompatible
-set guifont=Inconsolata\ 12
+set guifont=Inconsolata\ 11
 runtime! autoload/pathogen.vim
 if exists('g:loaded_pathogen')
   call pathogen#runtime_prepend_subdirectories(expand('~/.vim/bundles'))
@@ -9,7 +9,7 @@ syntax on
 filetype plugin indent on
 
 "set completeopt=menuone,preview,longest
-set completeopt=menuone,preview
+"set completeopt=menuone,preview
 "inoremap <expr> <CR> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
 
 " Omni completion settings
@@ -22,7 +22,7 @@ set completeopt=menuone,preview
 " syntastic
 let g:syntastic_enable_signs=1
 
-colorscheme molokai 
+colorscheme molokai
 set background=dark
 
 let bash_is_sh=1
